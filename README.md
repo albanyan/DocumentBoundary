@@ -16,7 +16,7 @@ To download: https://drive.google.com/open?id=1w5wPJTbEnCPU9BCo6hx6mCYvqH2YCgKq
 
 #### 3 - Download and add test.pdf to the folder /documents/ 
 
-https://drive.google.com/open?id=1XTN0Uvo72m6W2Q7xe1LJZlb-E8TroVrt
+To download: https://drive.google.com/open?id=1XTN0Uvo72m6W2Q7xe1LJZlb-E8TroVrt
 
 ### 4 - run the example
 
