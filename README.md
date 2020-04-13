@@ -6,7 +6,6 @@
 #### 1 - Install Requirements  ( INCOMPLETE )
 ```
 pip install -r ./requirements.txt   
-
 ```
 
 #### 2 - Download and add "Modular_EOD1.0.h5" to the folder /saved_models/
@@ -18,10 +17,10 @@ To download: https://drive.google.com/open?id=1w5wPJTbEnCPU9BCo6hx6mCYvqH2YCgKq
 
 To download: https://drive.google.com/open?id=1XTN0Uvo72m6W2Q7xe1LJZlb-E8TroVrt
 
-### 4 - run the example
+#### 4 - run the example
 
 ```bash
 python detect_EOD.py documents/test.pdf
 ```
 
-### The output files (the split PDFs ) can be found in the folder /OutputPDFs/
+#### The output files (the split PDFs ) can be found in the folder /OutputPDFs/
