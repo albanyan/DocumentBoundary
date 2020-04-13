@@ -1,0 +1,6 @@
+keras
+numpy
+cv2
+fitz
+PIL
+
