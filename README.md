@@ -3,7 +3,7 @@
 
 ## Prerequisites
 
-#### 1 - Install Requirements  ( INCOMPLETE )
+#### 1 - Install Requirements
 ```
 pip install -r ./requirements.txt   
 ```
